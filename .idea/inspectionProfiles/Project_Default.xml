@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="requests" />
+          <option value="botocore" />
+          <option value="openai" />
+          <option value="typing-extensions" />
+          <option value="python-dotenv" />
+          <option value="pyahocorasick" />
+          <option value="boto3" />
+          <option value="psycopg2-binary" />
+          <option value="tabulate" />
+          <option value="beautifulsoup4" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
